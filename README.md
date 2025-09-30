@@ -1,4 +1,4 @@
-# christian.is-a.dev
+# christiant.is-a.dev
 
 This is my personal page on the is-a.dev domain service.
 
