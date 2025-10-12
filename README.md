@@ -11,6 +11,7 @@ Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at
 ---
 
 ### 🎶 🎛️ Adventure Audio: Entrepreneurship and Innovation
+Check out our journey on Instagram: [instagram.com/adventure_audio](https://instagram.com/adventure_audio).
 
 #### The Heart of the Sound: Core Audio Technologies
 My passion for creation extended into the technical heart of our products. I became proficient in designing PCBs, rigorously testing and simulating circuits, and meticulously crafting product enclosures with intuitive UI/UX. This holistic approach ensured our unique audio equipment was exceptional from concept to user experience.
@@ -22,6 +23,8 @@ My biggest adventure truly began when I founded and led Adventure Audio. It was 
 *   **Product Lifecycle Management:** From Design for Manufacturability (DFM) to navigating international shipping trades.
 My responsibilities extended to meticulous component sourcing, establishing robust database management systems, and handling all aspects of financial operations, including payroll, business taxes, and legal compliance. I also developed strong leadership and human resources skills, fostering a collaborative environment and guiding a talented team. Beyond the core business operations, my role expanded to encompass a diverse set of technical and creative responsibilities. I became proficient in website and webshop creation and maintenance, showcasing my web development skills, and honed my abilities in illustrative design. I also developed a keen eye for social media engagement, growing several channels, and mastering photo and video editing, alongside shooting compelling promotional and tutorial videos.
 
+Adventure Audio also took me backstage with bands interested in trying our products in solo sessions, including [My Chemical Romance](https://www.mychemicalromance.com), [Circa Survive](https://circasurvive.com), [Relient K](https://www.relientk.com), [Four Year Strong](https://www.fouryearstrong.com), [Anti-Flag](https://www.anti-flag.com), and others.
+
 #### The Unforeseen Encore: A New Scientific Chapter
 Unfortunately, the world had other plans. The immense challenges brought on by the COVID-19 pandemic forced us to make the tough decision to close up shop. This pivotal moment, though difficult, ultimately led to my transition into the exciting role of a Technology Development Scientist. It was a new stage, a different kind of innovation, but with the same passion for pushing boundaries. You can still check out our journey and the cool gear we made on Instagram: [instagram.com/adventure_audio](https://instagram.com/adventure_audio).
 ***
@@ -32,10 +35,11 @@ More recently, I had been working as a Technology Development Scientist for a pr
 *   **Scientific Grant Writing:** Successfully securing research funding, including for projects with the Department of Energy (DOE).
 *   **Materials Science & Physics:** Investigating electrical and chemical interactions, X-ray and synchrotron science, GaN (Gallium Nitride) technology, and understanding lattice structures and band gaps.
 *   **Microfabrication & Experimentation:** Developing lithography and patterning techniques for wafers, and conducting vacuum chamber experiments to test multiple material resonances with custom CMOS sensors.
-*   **Data Acquisition & Control:** Gaining proficiency with fiber optic connections and communications, managing Linux servers, terminals, and CLIs, and developing custom Python scripting for various electrical measurement equipment.
-I even had the opportunity to run experiments at prestigious institutions like Cornell University, specifically at the Cornell High Energy Synchrotron Source ([CHESS](https://www.chess.cornell.edu/)). These experiments involved using multiple material samples to conduct linearity measurements for the X-ray detector cameras. This process required manually triggering sampling windows with the particle accelerator to accurately capture the data. For instance, a CeO2 sample was used to capture diffraction rings for precise geolocation calibration of multiple sensors within the camera, while a ruby sample was employed to measure intensities over multiple integration and interframe steps to generate a comprehensive linearity response chart, pushing the boundaries of what's possible in X-ray science.
+*   **Data Acquisition & Communication:** Gaining proficiency with fiber optic connections and communications.
+*   **Control Systems & Scripting:** Managing Linux servers, terminals, and CLIs, and developing custom Python scripting for various electrical measurement equipment.
+I even had the opportunity to run experiments at prestigious institutions like [Cornell University](https://www.cornell.edu/), specifically at the Cornell High Energy Synchrotron Source ([CHESS](https://www.chess.cornell.edu/)). These experiments involved using multiple material samples to conduct linearity measurements for the X-ray detector cameras. This process required manually triggering sampling windows with the particle accelerator to accurately capture the data. For instance, a CeO2 sample was used to capture diffraction rings for precise geolocation calibration of multiple sensors within the camera, while a ruby sample was employed to measure intensities over multiple integration and interframe steps to generate a comprehensive linearity response chart, pushing the boundaries of what's possible in X-ray science.
 
-I closely collaborated with scientists at Cornell University and the University of Rochester, as well as interacting with National Labs like Los Alamos, Lawrence Livermore, Brookhaven, and even NASA. Additionally, I collaborated with the [RIT NanoFab](https://www.rit.edu/microsystems/rit-nanofab) for custom fabrication of a GaN device.
+I closely collaborated with scientists at [Cornell University](https://www.cornell.edu/) and the [University of Rochester](https://www.rochester.edu/), as well as interacting with National Labs like [Los Alamos](https://www.lanl.gov/), [Lawrence Livermore](https://www.llnl.gov/), [Brookhaven](https://www.bnl.gov/), and even [NASA](https://www.nasa.gov/). Additionally, I collaborated with the [RIT NanoFab](https://www.rit.edu/microsystems/rit-nanofab) for custom fabrication of a GaN device.
 ***
 
 ### 🔭 New Horizons
@@ -43,7 +47,7 @@ Due to recent shifts in scientific research funding, I'm currently seeking a new
 ***
 
 ### 🚀 A New Beginning: 8sevenC
-I am starting a new company called 8sevenC that will strive towards the same goal that Adventure Audio did: create tools for musicians and audiophiles. Though this time I do not want to be limited to pedals and eurorack modules. Yes, I will definitely be designing both of those, but I also have aspirations for designing audio plugins and have a daily growing curiosity about AI and LLMs. I am unsure what the future holds, but in the background, I have been secretly building prototypes and creating a sort of 'digital garden' of my notes over the last few years. These notes are a compilation of random thoughts and extremely technical documents for things like electronics, audio, computer science, and metaphysical research. I am currently building a website that will showcase these prototypes as well as my garden.
+I am starting a new company called 8sevenC that will strive towards the same goal that Adventure Audio did: create tools for musicians and audiophiles. Though this time I do not want to be limited to pedals and eurorack modules. Yes, I will definitely be designing both of those, but I also have aspirations for designing audio plugins and have a daily growing curiosity about AI and LLMs. I am unsure what the future holds, but in the background, I have been secretly building prototypes and creating a sort of 'digital garden' of my notes over the last few years. These notes are a compilation of random thoughts and extremely technical documents for things like electronics, audio, computer science, and metaphysical research. I am currently building a website ([www.8sevenC.xyz](https://www.8sevenC.xyz)) that will showcase these prototypes as well as my garden.
 ***
 
 ### 🎓 Education
@@ -51,7 +55,9 @@ My journey began with a Bachelor of Arts in Music Arts Technology from [Bloomfie
 ***
 
 ### 💡 Other Stuff
-I interned at [DIY Recording Equipment](https://www.diyrecordingequipment.com) early on in my career, as well as interning and eventually becoming an assistant recording engineer at several music studios in NYC, NJ, and Philadelphia before moving to Rochester to get my masters. I also briefly worked as a front-of-house assistant engineer at a live music venue. I've also done a lot of other odd jobs like delivering wedding cakes, Lyft driver, UPS package assistant, sushi waiter, and several audio/video recording and editing gigs.
+I interned at [DIY Recording Equipment](https://www.diyrecordingequipment.com) early on in my career, as well as interning and eventually becoming an assistant recording engineer at several music studios in NYC, NJ, and Philadelphia before moving to Rochester to get my masters. Notably, I worked at [The Headroom Studios](https://headroom.studio) in Philadelphia, which cultivated bands like [Hop Along](https://hopalongtheband.com), [Algernon Cadwallader](http://www.algernoncadwallader.com), [Modern Baseball](https://modernbaseballpa.com), [Remo Drive](https://www.remodriveband.com), [Joyce Manor](https://www.joyce-manor.com), and [Alex G](https://sandyalexg.com). I also worked at Rough Magic Studios at The End in NYC, where I set up recording sessions and mic placements for artists such as [Mos Def](https://yasiinbey.bandcamp.com) and [Talib Kweli](https://www.talibkweli.com), and rented practice spaces to artists like [Four Tet](https://www.fourtet.net).
+
+I have also attended trade shows and expos as a vendor for [NAMM (National Association of Music Merchants)](https://www.namm.org), and the [Brooklyn Stompbox and Synth Expo](https://delicious-audio.com).
 
 I was also a member at [NextFAB studio](https://nextfab.com) in Philadelphia, where I earned certifications in:
 *   Bridgeport Milling
