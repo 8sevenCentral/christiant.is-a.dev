@@ -6,23 +6,14 @@
 
 <a href="/"><img src="{{ user.avatar_url }}" class="circle mb-3 mx-auto d-block pt-4 profile-img" style="max-width: 150px;"></a>
 <a href="/" class="text-dark text-center"><h1 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">{% if user.name %}{{ user.name }}{% else %}{{ user.login }}{% endif %}</h1></a>
-<p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
-  {{ user.bio }}
-</p>
+
 
 {% if include.metadata %}
   <div class="f4 mb-6">
     {% if user.hireable %}
       <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2 mb-2">Available for hire</span>
     {% endif %}
-    {% if user.name %}
-      <div class="{{ metadata_styles }}">
-        {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
-        <a href="https://github.com/{{ user.login }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-          @{{ user.login }}
-        </a>
-      </div>
-    {% endif %}
+
     {% if user.email %}
       <div class="{{ metadata_styles }}">
         {% octicon mail height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:email %}
@@ -31,7 +22,7 @@
         </a>
       </div>
     {% endif %}
-      <div class="d-flex flex-wrap flex-items-start h1 pb-4">
+      <div class="d-flex flex-wrap flex-items-start flex-justify-center h1 pb-4">
         {% for account in site.data.social_media %}
           <div class="mr-3"><a href="{{account.url}}" class="text-dark" title="{{account.name}}">{{account.icon}}</a></div>
         {% endfor %}

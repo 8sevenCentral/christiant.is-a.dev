@@ -1,0 +1,34 @@
+- name: instagram-downloader
+  description: "A Python script to download images and videos from Instagram."
+  html_url: "https://github.com/8sevenCentral/instagram-downloader"
+  language: "Python"
+  stargazers_count: 0
+  forks_count: 0
+
+- name: petittubeSampler
+  description: "This project automatically records audio samples from randomly selected YouTube videos using Petittube. The audio is converted into a format compatible with specific SD card-based samplers, organizing the recordings into a structured folder system."
+  html_url: "https://github.com/8sevenCentral/petittubeSampler"
+  language: "Python"
+  stargazers_count: 0
+  forks_count: 0
+
+- name: 3D-Models
+  description: "3D files created in fusion 360 and blender"
+  html_url: "https://github.com/8sevenCentral/3D-Models"
+  language: 
+  stargazers_count: 1
+  forks_count: 0
+
+- name: Kicad-Projects
+  description: "A collection of my KiCad projects."
+  html_url: "https://github.com/8sevenCentral/Kicad-Projects"
+  language: 
+  stargazers_count: 0
+  forks_count: 0
+
+- name: arduino-projects
+  description: "Arduino projects, including some for ATTiny84 and ATTiny85."
+  html_url: "https://github.com/8sevenCentral/arduino-projects"
+  language: "C++"
+  stargazers_count: 0
+  forks_count: 0
