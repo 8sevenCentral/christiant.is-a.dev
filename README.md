@@ -19,8 +19,14 @@ This venture operated on both **Business-to-Consumer (B2C)** and **Business-to-B
 #### The Unforeseen Encore: A New Scientific Chapter
 Unfortunately, the world had other plans. The immense challenges brought on by the COVID-19 pandemic forced us to make the tough decision to close up shop. This pivotal moment, though difficult, ultimately led to my transition into the exciting role of a Technology Development Scientist. It was a new stage, a different kind of innovation, but with the same passion for pushing boundaries. You can still check out our journey and the cool gear we made on Instagram: [instagram.com/adventure_audio](https://instagram.com/adventure_audio).
 
-### Scientific Endeavors
-More recently, I've been working as a Technology Development Scientist for a private company, where I've been at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. I've even had the opportunity to run experiments at Cornell University.
+### Scientific Endeavors: Pioneering X-ray and Photon Technologies
+More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
+*   **Advanced PCB Design:** Utilizing industry-standard tools like Altium and OrCAD for complex circuit board layouts.
+*   **Scientific Grant Writing:** Successfully securing research funding, including for projects with the Department of Energy (DOE).
+*   **Materials Science & Physics:** Investigating electrical and chemical interactions, X-ray and synchrotron science, GaN (Gallium Nitride) technology, and understanding lattice structures and band gaps.
+*   **Microfabrication & Experimentation:** Developing lithography and patterning techniques for wafers, and conducting vacuum chamber experiments to test multiple material resonances with custom CMOS sensors.
+*   **Data Acquisition & Control:** Gaining proficiency with fiber optic connections and communications, managing Linux servers, terminals, and CLIs, and developing custom Python scripting for various electrical measurement equipment.
+I even had the opportunity to run experiments at prestigious institutions like Cornell University, pushing the boundaries of what's possible in X-ray science.
 
 ### New Horizons
 Due to recent shifts in scientific research funding, I'm currently seeking a new adventure! I'm actively honing my skills in Python, exploring self-hosted open-source software for various applications, and diving deep into large language model implementation for audio technology development. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
