@@ -8,7 +8,7 @@ A brief description of Christian Terjesen's portfolio, showcasing his skills, pr
 
 Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at the exciting crossroads of creativity and technology. I'm actively seeking new collaborations and exciting projects, and I'm always eager to connect with fellow enthusiasts. Here are some of the things I've done so far:
 
-### Adventure Audio: Entrepreneurship and Innovation
+### 🎶 Adventure Audio: Entrepreneurship and Innovation
 
 #### The Heart of the Sound: Core Audio Technologies
 My passion for creation extended into the technical heart of our products. I became proficient in designing PCBs, rigorously testing and simulating circuits, and meticulously crafting product enclosures with intuitive UI/UX. This holistic approach ensured our unique audio equipment was exceptional from concept to user experience.
@@ -18,21 +18,24 @@ My biggest adventure truly began when I founded and led Adventure Audio. It was 
 
 #### The Unforeseen Encore: A New Scientific Chapter
 Unfortunately, the world had other plans. The immense challenges brought on by the COVID-19 pandemic forced us to make the tough decision to close up shop. This pivotal moment, though difficult, ultimately led to my transition into the exciting role of a Technology Development Scientist. It was a new stage, a different kind of innovation, but with the same passion for pushing boundaries. You can still check out our journey and the cool gear we made on Instagram: [instagram.com/adventure_audio](https://instagram.com/adventure_audio).
+***
 
-### Scientific Endeavors: Pioneering X-ray and Photon Technologies
-More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
+### 🔬 Scientific Endeavors: Pioneering X-ray and Photon Technologies
+More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. You can see some of the X-ray detectors I worked on here: [Sydor Technologies X-ray Cameras & Detectors](https://sydortechnologies.com/x-ray-cameras-detectors/). This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
 *   **Advanced PCB Design:** Utilizing industry-standard tools like Altium and OrCAD for complex circuit board layouts.
 *   **Scientific Grant Writing:** Successfully securing research funding, including for projects with the Department of Energy (DOE).
 *   **Materials Science & Physics:** Investigating electrical and chemical interactions, X-ray and synchrotron science, GaN (Gallium Nitride) technology, and understanding lattice structures and band gaps.
 *   **Microfabrication & Experimentation:** Developing lithography and patterning techniques for wafers, and conducting vacuum chamber experiments to test multiple material resonances with custom CMOS sensors.
 *   **Data Acquisition & Control:** Gaining proficiency with fiber optic connections and communications, managing Linux servers, terminals, and CLIs, and developing custom Python scripting for various electrical measurement equipment.
 I even had the opportunity to run experiments at prestigious institutions like Cornell University, specifically at the Cornell High Energy Synchrotron Source (CHESS). These experiments involved using multiple material samples to conduct linearity measurements for the X-ray detector cameras. This process required manually triggering sampling windows with the particle accelerator to accurately capture the data. For instance, a CeO2 sample was used to capture diffraction rings for precise geolocation calibration of multiple sensors within the camera, while a ruby sample was employed to measure intensities over multiple integration and interframe steps to generate a comprehensive linearity response chart, pushing the boundaries of what's possible in X-ray science.
+***
 
-### New Horizons
+### 🔭 New Horizons
 Due to recent shifts in scientific research funding, I'm currently seeking a new adventure! I'm actively honing my skills in Python, exploring self-hosted open-source software for various applications, and diving deep into large language model implementation for audio technology development. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
 
-### Education
+### 🎓 Education
 My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, NJ (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts.
+***
 
 ## 🛠 Skills
 
