@@ -8,7 +8,9 @@ A brief description of Christian Terjesen's portfolio, showcasing his skills, pr
 
 Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at the exciting crossroads of creativity and technology. I'm actively seeking new collaborations and exciting projects, and I'm always eager to connect with fellow enthusiasts. Here are some of the things I've done so far:
 
-### 🎶 Adventure Audio: Entrepreneurship and Innovation
+---
+
+### 🎶 🎛️ Adventure Audio: Entrepreneurship and Innovation
 
 #### The Heart of the Sound: Core Audio Technologies
 My passion for creation extended into the technical heart of our products. I became proficient in designing PCBs, rigorously testing and simulating circuits, and meticulously crafting product enclosures with intuitive UI/UX. This holistic approach ensured our unique audio equipment was exceptional from concept to user experience.
@@ -28,10 +30,16 @@ More recently, I had been working as a Technology Development Scientist for a pr
 *   **Microfabrication & Experimentation:** Developing lithography and patterning techniques for wafers, and conducting vacuum chamber experiments to test multiple material resonances with custom CMOS sensors.
 *   **Data Acquisition & Control:** Gaining proficiency with fiber optic connections and communications, managing Linux servers, terminals, and CLIs, and developing custom Python scripting for various electrical measurement equipment.
 I even had the opportunity to run experiments at prestigious institutions like Cornell University, specifically at the Cornell High Energy Synchrotron Source ([CHESS](https://www.chess.cornell.edu/)). These experiments involved using multiple material samples to conduct linearity measurements for the X-ray detector cameras. This process required manually triggering sampling windows with the particle accelerator to accurately capture the data. For instance, a CeO2 sample was used to capture diffraction rings for precise geolocation calibration of multiple sensors within the camera, while a ruby sample was employed to measure intensities over multiple integration and interframe steps to generate a comprehensive linearity response chart, pushing the boundaries of what's possible in X-ray science.
+
+I closely collaborated with scientists at Cornell University and the University of Rochester, as well as interacting with National Labs like Los Alamos, Lawrence Livermore, Brookhaven, and even NASA. Additionally, I collaborated with the [RIT NanoFab](https://www.rit.edu/microsystems/rit-nanofab) for custom fabrication of a GaN device.
 ***
 
 ### 🔭 New Horizons
 Due to recent shifts in scientific research funding, I'm currently seeking a new adventure! I'm actively honing my skills in Python, exploring self-hosted open-source software for various applications, and diving deep into large language model implementation for audio technology development. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
+***
+
+### 🚀 A New Beginning: 8sevenC
+I am starting a new company called 8sevenC that will strive towards the same goal that Adventure Audio did: create tools for musicians and audiophiles. Though this time I do not want to be limited to pedals and eurorack modules. Yes, I will definitely be designing both of those, but I also have aspirations for designing audio plugins and have a daily growing curiosity about AI and LLMs. I am unsure what the future holds, but in the background, I have been secretly building prototypes and creating a sort of 'digital garden' of my notes over the last few years. These notes are a compilation of random thoughts and extremely technical documents for things like electronics, audio, computer science, and metaphysical research. I am currently building a website that will showcase these prototypes as well as my garden.
 ***
 
 ### 🎓 Education
@@ -45,7 +53,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   **Business & Management:** Database Management, Payroll, Business Taxes & Laws, Employee Management, Leadership, Human Resources, Strategic Planning, Sales, Distribution, Customer Relationships, Retail Partnerships, Brand Marketing, Supply Chain Management.
 *   **Web & Design:** Website & Webshop Creation & Maintenance, Illustrative Design.
 *   **Audio Technology:** PCB Design, Circuit Testing & Simulation, Enclosure Design, UI/UX for Products, Sound Design, Audio Engineering, Engineering Design, VST Development, Spatial Audio, Analog Synthesizers.
-*   **Scientific & Research:** X-ray & Photon Imaging Technology, X-ray Experiment Cameras, Synchrotron Particle Accelerators, Experimental Execution (e.g., Cornell University).
+*   **Scientific & Research:** X-ray & Photon Imaging Technology, X-ray Experiment Cameras, Synchrotron Particle Accelerators, Experimental Execution (e.g., Cornell University), ImageJ (image processing software).
 
 ## 💻 Current Tech Stack
 
@@ -59,48 +67,14 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   CMake
 *   SourceTree
 *   Teensy
+*   Overleaf
+*   LaTeX
 
 ### CLI Tools
 *   Gemini
 *   Qwen
 *   Crush
 *   Aider
-*   Various others
-
-### IDEs
-*   Void
-*   Kiro
-*   Arduino IDE
-*   Zed
-*   PyCharm
-*   VS Code
-*   Xcode
-
-### Web Services
-*   Vercel
-*   Cloudflare
-*   Orion Browser
-*   Zen Browser
-
-### Virtualization & VMs
-*   UTM
-*   Ubuntu 20.something
-*   Win11
-*   UnRaid
-
-### MCPs (Model Context Protocols)
-*   Context7
-*   KiCad MCP
-*   Obsidian MCP
-*   n8n MCP
-*   Continue MCP
-*   GitHub MCP
-*   Brave Browser MCP
-
-### Productivity & Knowledge Management
-*   Zotero
-*   Obsidian
-*   Raindrop
 
 ### Utilities
 *   Tailscale
@@ -131,6 +105,9 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   ProtonVPN
 *   Mos
 *   SwiftQuit
+*   Grab2Text
+*   BetterDisplay
+*   Ice
 
 ### CAD & Design
 *   Fusion 360
@@ -145,7 +122,6 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Orca Slicer
 *   Thumbhost3mf.app
 *   Touch Designer
-*   ImageJ
 
 ### Audio & Music Production
 *   Bitwig
@@ -174,7 +150,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Pi-hole
 *   UnRaid
 
-### Depreciated Software
+### Depreciated Software (I don't use)
 *   EagleCAD
 *   Aspire 8
 *   Pickit2
