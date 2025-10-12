@@ -29,6 +29,12 @@ More recently, I've been working as a Technology Development Scientist for a pri
 ### New Horizons
 Due to recent shifts in scientific research funding, I'm currently seeking a new adventure! I'm actively honing my skills in Python, exploring self-hosted open-source software for various applications, and diving deep into large language model implementation for audio technology development. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
 
+## Current Tech Stack
+(Software will be added here)
+
+### Education
+My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, NJ (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts.
+
 ## 🛠 Skills
 
 ### Core Competencies
