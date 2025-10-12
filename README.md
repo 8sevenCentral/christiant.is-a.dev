@@ -21,7 +21,7 @@ Unfortunately, the world had other plans. The immense challenges brought on by t
 ***
 
 ### 🔬 Scientific Endeavors: Pioneering X-ray and Photon Technologies
-More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. You can see some of the X-ray detectors I worked on here: [Sydor Technologies X-ray Cameras & Detectors](https://sydortechnologies.com/x-ray-cameras-detectors/). This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
+More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. You can see some of the X-ray detectors I worked on here: [X-ray Cameras & Detectors](https://sydortechnologies.com/x-ray-cameras-detectors/). This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
 *   **Advanced PCB Design:** Utilizing industry-standard tools like Altium and OrCAD for complex circuit board layouts.
 *   **Scientific Grant Writing:** Successfully securing research funding, including for projects with the Department of Energy (DOE).
 *   **Materials Science & Physics:** Investigating electrical and chemical interactions, X-ray and synchrotron science, GaN (Gallium Nitride) technology, and understanding lattice structures and band gaps.
@@ -52,6 +52,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 ### Programming Languages
 *   Python
 *   Julia (Matlab alternative)
+*   C++
 
 ### Development Tools
 *   Homebrew
@@ -64,7 +65,6 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Qwen
 *   Crush
 *   Aider
-*   Command X
 *   Various others
 
 ### IDEs
@@ -127,7 +127,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Fluid
 *   Wireshark
 *   Keyboard Maestro
-*   Streio
+*   Stremio
 *   ProtonVPN
 *   Mos
 *   SwiftQuit
@@ -145,6 +145,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Orca Slicer
 *   Thumbhost3mf.app
 *   Touch Designer
+*   ImageJ
 
 ### Audio & Music Production
 *   Bitwig
@@ -153,6 +154,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   PlugData
 *   JUCE
 *   VCVRack2Free
+*   EqMac
 
 ### AI/ML
 *   LM Studio (for current models using)
@@ -181,15 +183,20 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Adobe Illustrator
 *   Adobe Photoshop
 *   Adobe Premier
+*   squarespace.com
+*   QuickBooks
+*   X-Carve Easel
+*   Matlab
 
-### Other Software
-*   ImageJ
-*   Grab2Text
-*   EqMac
-*   BetterDisplay
-*   Ice
-*   Various Python Libs and Homebrew Packages
-*   Various others
+### Chips I've Worked With
+*   FV-1
+*   STM32
+*   DaisySeed
+*   ATMEGA328
+*   ATTINY84
+*   ATTINY85
+*   Raspberry Pi
+*   Teensy
 
 ### Current Focus
 *   **Programming:** Python
