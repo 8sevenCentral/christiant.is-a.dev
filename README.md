@@ -52,6 +52,13 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 ### Development Tools
 *   Homebrew
 
+### CLI Tools
+*   Gemini
+*   Qwen
+*   Crush
+*   Aider
+*   Various others
+
 ### Self-hosted Open-Source Software
 *   Podman
 *   Postiz
