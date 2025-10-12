@@ -21,7 +21,7 @@ Unfortunately, the world had other plans. The immense challenges brought on by t
 ***
 
 ### 🔬 Scientific Endeavors: Pioneering X-ray and Photon Technologies
-More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. You can see some of the X-ray detectors I worked on here: [X-ray Cameras & Detectors](https://sydortechnologies.com/x-ray-cameras-detectors/). This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
+More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. You can see some of the X-ray detectors I worked on here: [Sydor Technologies X-ray Cameras & Detectors](https://sydortechnologies.com/x-ray-cameras-detectors/). This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
 *   **Advanced PCB Design:** Utilizing industry-standard tools like Altium and OrCAD for complex circuit board layouts.
 *   **Scientific Grant Writing:** Successfully securing research funding, including for projects with the Department of Energy (DOE).
 *   **Materials Science & Physics:** Investigating electrical and chemical interactions, X-ray and synchrotron science, GaN (Gallium Nitride) technology, and understanding lattice structures and band gaps.
