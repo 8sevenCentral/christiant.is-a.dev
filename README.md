@@ -48,6 +48,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 
 ### Programming Languages
 *   Python
+*   Julia (Matlab alternative)
 
 ### Development Tools
 *   Homebrew
@@ -58,6 +59,44 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Crush
 *   Aider
 *   Various others
+
+### IDEs
+*   Void
+*   Kiro
+
+### Web Services
+*   Vercel
+*   Cloudflare
+
+### Virtualization & VMs
+*   UTM
+*   Ubuntu 20.something
+*   Win11
+
+### MCPs (Model Context Protocols)
+*   Context7
+*   KiCad MCP
+*   Obsidian MCP
+*   n8n MCP
+*   Continue MCP
+*   GitHub MCP
+*   Brave Browser MCP
+
+### Productivity & Knowledge Management
+*   Zotero
+*   Obsidian
+
+### Utilities
+*   Tailscale
+*   TouchPortal (aka Steam Deck)
+
+### CAD & Design
+*   Fusion 360
+*   FreeCAD
+*   KiCad
+*   OpenEMS (Ubuntu VM) via UTM
+*   Inkscape
+*   Inkpad (iPad Inkscape)
 
 ### Self-hosted Open-Source Software
 *   Podman
@@ -71,6 +110,9 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   MongoDB
 *   DebrisLink
 *   Pi-hole
+
+### AI/ML
+*   LM Studio (for current models using)
 
 ### Other Software
 *   (More software will be added here based on usage and skills)
