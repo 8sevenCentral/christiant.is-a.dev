@@ -44,11 +44,29 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   **Audio Technology:** PCB Design, Circuit Testing & Simulation, Enclosure Design, UI/UX for Products, Sound Design, Audio Engineering, Engineering Design, VST Development, Spatial Audio, Analog Synthesizers.
 *   **Scientific & Research:** X-ray & Photon Imaging Technology, X-ray Experiment Cameras, Synchrotron Particle Accelerators, Experimental Execution (e.g., Cornell University).
 
-### 💻 Current Tech Stack
-*   **Programming:** Python
-*   **Development Tools:** Homebrew
-*   **Software:** Self-hosted Open-Source Software (various applications)
-*   **AI/ML:** Large Language Model Implementation (for audio technology development)
+## 💻 Current Tech Stack
+
+### Programming Languages
+*   Python
+
+### Development Tools
+*   Homebrew
+
+### Self-hosted Open-Source Software
+*   Podman
+*   Postiz
+*   PartsDB
+*   Listmonk
+*   n8n
+*   Penpot
+*   Playwright
+*   Nextcloud (with WebDAV for Zotero)
+*   MongoDB
+*   DebrisLink
+*   Pi-hole
+
+### Other Software
+*   (More software will be added here based on usage and skills)
 
 ### Current Focus
 *   **Programming:** Python
