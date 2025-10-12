@@ -52,21 +52,29 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 
 ### Development Tools
 *   Homebrew
+*   PyCharm
+*   Aerospace
+*   CMake
+*   SourceTree
 
 ### CLI Tools
 *   Gemini
 *   Qwen
 *   Crush
 *   Aider
+*   Command X
 *   Various others
 
 ### IDEs
 *   Void
 *   Kiro
+*   Arduino IDE
+*   Zed
 
 ### Web Services
 *   Vercel
 *   Cloudflare
+*   Orion Browser
 
 ### Virtualization & VMs
 *   UTM
@@ -85,10 +93,27 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 ### Productivity & Knowledge Management
 *   Zotero
 *   Obsidian
+*   Raindrop
 
 ### Utilities
 *   Tailscale
 *   TouchPortal (aka Steam Deck)
+*   OnyX
+*   Espanso
+*   Cling
+*   PDF Gear
+*   Raycast
+*   OpenCore Legacy Patcher
+*   Amphetamine
+*   Keka
+*   Maccy
+*   Astrix
+*   Balena Etcher
+*   Disk Drill
+*   Macs Fan Control
+*   Cheat Sheet
+*   The Unarchiver
+*   PearCleaner
 
 ### CAD & Design
 *   Fusion 360
@@ -97,6 +122,23 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   OpenEMS (Ubuntu VM) via UTM
 *   Inkscape
 *   Inkpad (iPad Inkscape)
+*   GIMP
+*   Penpot
+*   Prusa Slicer
+*   Orca Slicer
+*   Thumbhost3mf.app
+*   Touch Designer
+
+### Audio & Music Production
+*   Bitwig
+*   PureData
+*   Tidal
+*   PlugData
+*   JUCE
+
+### AI/ML
+*   LM Studio (for current models using)
+*   Ollama
 
 ### Self-hosted Open-Source Software
 *   Podman
@@ -111,11 +153,24 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   DebrisLink
 *   Pi-hole
 
-### AI/ML
-*   LM Studio (for current models using)
+### Depreciated Software
+*   EagleCAD
+*   Aspire 8
+*   Pickit2
+*   Protools
+*   Logic
+*   Adobe Illustrator
+*   Adobe Photoshop
+*   Adobe Premier
 
 ### Other Software
-*   (More software will be added here based on usage and skills)
+*   ImageJ
+*   Grab2Text
+*   EqMac
+*   BetterDisplay
+*   Ice
+*   Various Python Libs and Homebrew Packages
+*   Various others
 
 ### Current Focus
 *   **Programming:** Python
