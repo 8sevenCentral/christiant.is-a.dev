@@ -4,8 +4,7 @@ style: light
 port: 4040
 
 title: Christian Terjesen
-description: "A creative individual with an engineer's mindset and a passion for bringing ideas to life."
-url: "http://christiant.is-a.dev"
+description: "A passionate maker at the intersection of creativity and technology. Founder and former CEO of Adventure Audio. Services include Sound Design, Technical Writing, Audio Engineering, and Engineering Design. Associated with Sydor Technologies and the University of Rochester. Education includes University of Rochester and Rochester Institute of Technology, with a certification in Fundamentals of Audio and Music Engineering and various ECE courses."url: "http://christiant.is-a.dev"
 baseurl: ""
 
 plugins:

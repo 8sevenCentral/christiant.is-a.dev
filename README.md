@@ -6,7 +6,7 @@ A brief description of Christian Terjesen's portfolio, showcasing his skills, pr
 
 ## 🚀 About Me
 
-Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at the exciting crossroads of creativity and technology. Whether it's crafting unique soundscapes, diving deep into technical writing, or designing intricate audio electronics, I thrive on exploring new frontiers. My journey has taken me through the halls of the University of Rochester and Rochester Institute of Technology, where I honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
+Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at the exciting crossroads of creativity and technology. I founded and ran Adventure Audio, gaining extensive experience in business and product development. Whether it's crafting unique soundscapes, diving deep into technical writing, or designing intricate audio electronics, I thrive on exploring new frontiers. My journey has taken me through the halls of the University of Rochester and Rochester Institute of Technology, where I honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
 
 ## 🛠 Skills
 
