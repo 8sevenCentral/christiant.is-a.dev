@@ -1,0 +1,113 @@
+- name: Dev.to
+  url: https://dev.to/brennan
+  icon: <i class="fab fa-dev"></i>
+
+- name: Codepen
+  url: https://codepen.io/brennan
+  icon: <i class="fab fa-codepen"></i>
+
+- name: HackerRank
+  url: https://www.hackerrank.com/brennan_brown
+  icon: <i class="fab fa-hackerrank"></i>
+
+- name: Stack Overflow
+  url: https://stackoverflow.com/users/4830756/brennan-k-brown?tab=profile
+  icon: <i class="fab fa-stack-overflow"></i>
+
+- name: Keybase
+  url: https://keybase.io/brennanbrown
+  share_url_prefix: https://keybase.io/
+  icon: <i class="fab fa-keybase"></i>
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/brennankbrown
+  share_url_prefix: https://www.linkedin.com/shareArticle?mini=true&url=
+  icon: <i class="fab fa-linkedin"></i>
+
+- name: WordPress
+  url: https://bkpoetry.wordpress.com
+  icon: <i class="fab fa-wordpress"></i>
+
+- name: Twitter
+  url: https://www.twitter.com/bkennethbrown
+  share_url_prefix: https://twitter.com/share?url=
+  icon: <i class="fab fa-twitter-square"></i>
+
+- name: Trello
+  url: https://trello.com/b/pmphGyWR/personal-inventory
+  icon: <i class="fab fa-trello"></i>
+
+- name: GoodReads
+  url: https://www.goodreads.com/user/show/27730411-brennan-kenneth
+  icon: <i class="fab fa-goodreads"></i>
+
+- name: Bandcamp
+  url: https://augustin.bandcamp.com
+  icon: <i class="fab fa-bandcamp"></i>
+
+# - name: Behance
+#   url: https://www.behance.net/
+#   icon: <i class="fab fa-behance-square"></i>
+
+# - name: Dribbble
+#   url: https://dribbble.com/
+#   icon: <i class="fab fa-dribbble-square"></i>
+
+# - name: Facebook
+#   url: https://www.facebook.com/
+#   share_url_prefix: https://www.facebook.com/sharer/sharer.php?u=
+#   icon: <i class="fab fa-facebook-square"></i>
+
+- name: Instagram
+  url: https://www.instagram.com/brennankennethbrown
+  icon: <i class="fab fa-instagram-square"></i>
+
+- name: Mastodon
+  url: https://fosstodon.org/web/accounts/330220
+  icon: <i class="fab fa-mastodon"></i>
+
+- name: Medium
+  url: https://blog.brennanbrown.ca
+  icon: <i class="fab fa-medium"></i>
+
+# - name: Telegram
+#   url: https://t.me/
+#   share_url_prefix: https://telegram.me/share/url?url=
+#   icon: <i class="fab fa-telegram"></i>
+
+# - name: Unsplash
+#   url: https://www.unsplash.com/
+#   icon: <i class="fab fa-unsplash"></i>
+
+# - name: VK
+#   url: https://vk.com/
+#   share_url_prefix: https://vk.com/share.php?url=
+#   icon: <i class="fab fa-vk"></i>
+
+- name: Meetup
+  url: https://www.meetup.com/members/231972720/
+  icon: <i class="fab fa-meetup"></i>
+
+- name: ResearchGate
+  url: https://www.researchgate.net/profile/Brennan-Brown-2
+  icon: <i class="fab fa-researchgate"></i>
+
+- name: 750words
+  url: https://750words.com/person/brennan
+  icon: <i class="fab fa-pencil"></i>
+
+- name: Duolingo
+  url: https://www.duolingo.com/profile/brennankbrown
+  icon: <i class="fab fa-language"></i>
+
+- name: Beeminder
+  url: https://beeminder.com/brennanbrown
+  icon: <i class="fab fa-forumbee"></i>
+
+- name: Website
+  url: https://brennanbrown.ca/
+  icon: <i class="fab fa-globe"></i>
+  
+# - name: YouTube
+#   url: https://www.youtube.com/
+#   icon: <i class="fab fa-youtube-square"></i>
