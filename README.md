@@ -6,7 +6,16 @@ A brief description of Christian Terjesen's portfolio, showcasing his skills, pr
 
 ## 🚀 About Me
 
-Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at the exciting crossroads of creativity and technology. My biggest adventure so far was founding and leading Adventure Audio, where I poured my passion into creating unique audio equipment for musicians and audiophiles. It was a journey of innovation, bringing sound to life through cutting-edge design and a deep understanding of audio technology. More recently, I've been working as a Technology Development Scientist for a private company, where I've been at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. I've even had the opportunity to run experiments at Cornell University. Whether it's crafting unique soundscapes, diving deep into technical writing, or designing intricate audio electronics, I thrive on exploring new frontiers. My journey has taken me through the halls of the University of Rochester and Rochester Institute of Technology, where I honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
+Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at the exciting crossroads of creativity and technology.
+
+### Adventure Audio
+My biggest adventure so far was founding and leading Adventure Audio. It was a journey of innovation, where I poured my passion into creating unique audio equipment for musicians and audiophiles. We closed up shop when I transitioned to my role as a scientist, but you can still check out our journey on Instagram: [instagram.com/adventure_audio](https://instagram.com/adventure_audio).
+
+### Scientific Endeavors
+More recently, I've been working as a Technology Development Scientist for a private company, where I've been at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. I've even had the opportunity to run experiments at Cornell University.
+
+### New Horizons
+Due to recent shifts in scientific research funding, I'm currently seeking a new adventure! I'm actively honing my skills in Python, exploring self-hosted open-source software for various applications, and diving deep into large language model implementation for audio technology development. My journey has taken me through the halls of the University of Rochester and Rochester Institute of Technology, where I honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
 
 ## 🛠 Skills
 
