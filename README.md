@@ -1,8 +1,8 @@
-# Christian Terjesen's Portfolio
+# Christian T.'s Portfolio
 
 A brief description of Christian Terjesen's portfolio, showcasing his skills, projects, and experience.
 
-## Hi, I'm Christian aka 8sevenC! 👋
+## Hi, I'm Christian! 👋
 
 ## 🚀 About Me
 
