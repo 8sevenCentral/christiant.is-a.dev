@@ -1,43 +1,17 @@
 # Christian Terjesen's Portfolio
 
-This is the personal portfolio website of Christian Terjesen, a creative individual with an engineer's mindset and a passion for bringing ideas to life. This site showcases his skills, projects, and experience in various fields.
+A brief description of Christian Terjesen's portfolio, showcasing his skills, projects, and experience.
 
-## About Christian Terjesen
+## Hi, I'm Christian aka 8sevenC! 👋
 
-Christian is skilled in machine operating, machine maintenance, strategic planning, circuit board design, rapid prototyping, electronics testing, 3D print design, and product manufacturing. He also has extensive experience in management, sales, distribution, customer relationships, retail partnerships, payroll accounting, brand marketing, and supply chain management from his time managing Adventure Audio.
+## 🚀 About Me
 
-## Live Site
+A passionate maker at the intersection of creativity and technology. Services include Sound Design, Technical Writing, Audio Engineering, and Engineering Design. Associated with Sydor Technologies and the University of Rochester. Education includes University of Rochester and Rochester Institute of Technology, with a certification in Fundamentals of Audio and Music Engineering and various ECE courses.
 
-Visit the live portfolio at: [christiant.is-a.dev](http://christiant.is-a.dev)
+## 🛠 Skills
 
-## Technologies Used
+(Skills will be added here based on resume)
 
-This portfolio website is built using:
-*   **Jekyll**: A simple, blog-aware, static site generator.
-*   **GitHub Pages**: Hosting service for static websites.
+## Authors
 
-## Running Locally
-
-To run this portfolio website locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/8sevenCentral/christiant.is-a.dev.git
-    cd christiant.is-a.dev
-    ```
-
-2.  **Install Dependencies:**
-    ```bash
-    bundle install
-    ```
-
-3.  **Serve the site:**
-    ```bash
-    bundle exec jekyll serve
-    ```
-
-    The site will be available at `http://localhost:4000` (or another port if 4000 is in use).
-
-## Contact
-
-*   **GitHub:** [8sevenCentral](https://github.com/8sevenCentral)
+- [@8sevenCentral](https://www.github.com/8sevenCentral)
