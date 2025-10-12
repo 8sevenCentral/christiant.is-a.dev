@@ -40,5 +40,4 @@ To run this portfolio website locally, follow these steps:
 
 ## Contact
 
-*   **Email:** ChristianTerjesen@gmail.com
 *   **GitHub:** [8sevenCentral](https://github.com/8sevenCentral)
