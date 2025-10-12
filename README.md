@@ -32,17 +32,6 @@ I even had the opportunity to run experiments at prestigious institutions like C
 ### New Horizons
 Due to recent shifts in scientific research funding, I'm currently seeking a new adventure! I'm actively honing my skills in Python, exploring self-hosted open-source software for various applications, and diving deep into large language model implementation for audio technology development. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
 
-## 💻 Current Tech Stack
-
-### Programming Languages
-*   Python
-
-### Development Tools
-*   Homebrew
-
-### Other Software
-*   (More software will be added here based on usage and skills)
-
 ### Education
 My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, NJ (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts.
 
@@ -55,11 +44,16 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   **Audio Technology:** PCB Design, Circuit Testing & Simulation, Enclosure Design, UI/UX for Products, Sound Design, Audio Engineering, Engineering Design, VST Development, Spatial Audio, Analog Synthesizers.
 *   **Scientific & Research:** X-ray & Photon Imaging Technology, X-ray Experiment Cameras, Synchrotron Particle Accelerators, Experimental Execution (e.g., Cornell University).
 
+### 💻 Current Tech Stack
+*   **Programming:** Python
+*   **Development Tools:** Homebrew
+*   **Software:** Self-hosted Open-Source Software (various applications)
+*   **AI/ML:** Large Language Model Implementation (for audio technology development)
+
 ### Current Focus
 *   **Programming:** Python
 *   **Software:** Self-hosted Open-Source Software (various applications)
 *   **AI/ML:** Large Language Model Implementation (for audio technology development)
-
 
 ## Authors
 
