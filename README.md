@@ -8,9 +8,6 @@ A brief description of Christian Terjesen's portfolio, showcasing his skills, pr
 
 Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at the exciting crossroads of creativity and technology.
 
-### Educational Background
-My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, NJ (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts.
-
 ### Adventure Audio
 
 #### The Journey & The Craft
@@ -25,10 +22,22 @@ More recently, I've been working as a Technology Development Scientist for a pri
 ### New Horizons
 Due to recent shifts in scientific research funding, I'm currently seeking a new adventure! I'm actively honing my skills in Python, exploring self-hosted open-source software for various applications, and diving deep into large language model implementation for audio technology development. I'm always eager to connect with fellow enthusiasts and collaborate on projects that push boundaries!
 
+### Education
+My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, NJ (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts.
+
 ## 🛠 Skills
 
-*   **Technical Skills:** Machine Operating, Machine Maintenance, Circuit Board Design, Rapid Prototyping, Electronics Testing, 3D Print Design, Product Manufacturing, Sound Design, Technical Writing, Audio Engineering, Engineering Design, VST Development, Spatial Audio, Analog Synthesizers, Quantum Computing, Open-Source Silicon.
-*   **Business & Management Skills:** Strategic Planning, Management, Sales, Distribution, Customer Relationships, Retail Partnerships, Payroll Accounting, Brand Marketing, Supply Chain Management.
+### Core Competencies
+*   **Manufacturing & Operations:** CNC Machining, UV Printing, Powder Coating, 3D Printing, Pick-and-Place Programming & Operation, Screen Printing, Electrical Test Assemblies & Processes, Design for Manufacturability (DFM), International Shipping Trades, Component Sourcing.
+*   **Business & Management:** Database Management, Payroll, Business Taxes & Laws, Employee Management, Leadership, Human Resources, Strategic Planning, Sales, Distribution, Customer Relationships, Retail Partnerships, Brand Marketing, Supply Chain Management.
+*   **Web & Design:** Website & Webshop Creation & Maintenance, Illustrative Design.
+*   **Audio Technology:** PCB Design, Circuit Testing & Simulation, Enclosure Design, UI/UX for Products, Sound Design, Audio Engineering, Engineering Design, VST Development, Spatial Audio, Analog Synthesizers.
+*   **Scientific & Research:** X-ray & Photon Imaging Technology, X-ray Experiment Cameras, Synchrotron Particle Accelerators, Experimental Execution (e.g., Cornell University).
+
+### Current Focus
+*   **Programming:** Python
+*   **Software:** Self-hosted Open-Source Software (various applications)
+*   **AI/ML:** Large Language Model Implementation (for audio technology development)
 
 
 ## Authors
