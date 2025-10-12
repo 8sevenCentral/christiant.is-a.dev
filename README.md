@@ -149,23 +149,23 @@ I was also a member at [NextFAB studio](https://nextfab.com) in Philadelphia, wh
 
 ### Audio & Music Production
 *   [Bitwig](https://www.bitwig.com)
-*   PureData
-*   Tidal
-*   PlugData
-*   JUCE
-*   VCVRack2Free
-*   EqMac
+*   [PureData](https://puredata.info)
+*   [Tidal](https://tidal.com)
+*   [PlugData](https://plugdata.org)
+*   [JUCE](https://juce.com)
+*   [VCVRack2Free](https://vcvrack.com)
+*   [EqMac](https://eqmac.app)
 
 ### AI/ML
-*   LM Studio (for current models using)
-*   Ollama
+*   [LM Studio](https://lmstudio.ai) (for current models using)
+*   [Ollama](https://ollama.com)
 
 ### Self-hosted Open-Source Software
-*   Podman
-*   Postiz
-*   PartsDB
-*   Listmonk
-*   n8n
+*   [Podman](https://podman.io)
+*   [Postiz](https://postiz.com)
+*   [PartsDB](https://part-db.de)
+*   [Listmonk](https://listmonk.app)
+*   [n8n](https://n8n.io)
 *   [Penpot](https://penpot.app)
 *   Playwright
 *   Nextcloud (with WebDAV for Zotero)
