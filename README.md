@@ -10,7 +10,7 @@ Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at
 
 ### Adventure Audio: Entrepreneurship and Innovation
 
-My biggest adventure truly began when I founded and led Adventure Audio. This venture was a passion project, a journey of innovation where I dedicated myself to creating unique audio equipment for musicians and audiophiles. Adventure Audio operated on both Business-to-Consumer (B2C) and Business-to-Business (B2B) models. The B2B operations included stocking retailers with our innovative products and manufacturing custom enclosures for third-party vendors, some of whom were larger enterprises.
+My biggest adventure truly began when I founded and led Adventure Audio. This venture was a passion project, a journey of innovation where I poured my heart into creating unique audio equipment for musicians and audiophiles. Adventure Audio operated on both Business-to-Consumer (B2C) and Business-to-Business (B2B) models. The B2B operations included stocking retailers with our innovative products and manufacturing custom enclosures for third-party vendors, some of whom were larger enterprises.
 
 This entrepreneurial experience served as a crucible for developing a diverse skill set, including:
 *   **Manufacturing & Operations:** CNC machining, UV printing, powder coating, 3D printing, pick-and-place programming and operation, screen printing, electrical test assemblies and processes. I mastered the entire product lifecycle, from Design for Manufacturability (DFM) to navigating international shipping trades.
@@ -52,10 +52,9 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 
 ### Development Tools
 *   Homebrew
-*   PyCharm
-*   Aerospace
 *   CMake
 *   SourceTree
+*   Teensy
 
 ### CLI Tools
 *   Gemini
@@ -70,16 +69,21 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Kiro
 *   Arduino IDE
 *   Zed
+*   PyCharm
+*   VS Code
+*   Xcode
 
 ### Web Services
 *   Vercel
 *   Cloudflare
 *   Orion Browser
+*   Zen Browser
 
 ### Virtualization & VMs
 *   UTM
 *   Ubuntu 20.something
 *   Win11
+*   UnRaid
 
 ### MCPs (Model Context Protocols)
 *   Context7
@@ -114,6 +118,16 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Cheat Sheet
 *   The Unarchiver
 *   PearCleaner
+*   LuLu
+*   AnyDesk
+*   Transmission
+*   Fluid
+*   Wireshark
+*   Keyboard Maestro
+*   Streio
+*   ProtonVPN
+*   Mos
+*   SwiftQuit
 
 ### CAD & Design
 *   Fusion 360
@@ -135,6 +149,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   Tidal
 *   PlugData
 *   JUCE
+*   VCVRack2Free
 
 ### AI/ML
 *   LM Studio (for current models using)
@@ -152,6 +167,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   MongoDB
 *   DebrisLink
 *   Pi-hole
+*   UnRaid
 
 ### Depreciated Software
 *   EagleCAD
