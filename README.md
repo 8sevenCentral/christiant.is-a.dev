@@ -10,7 +10,9 @@ A passionate maker at the intersection of creativity and technology. Services in
 
 ## 🛠 Skills
 
-(Skills will be added here based on resume)
+*   **Technical Skills:** Machine Operating, Machine Maintenance, Circuit Board Design, Rapid Prototyping, Electronics Testing, 3D Print Design, Product Manufacturing, Sound Design, Technical Writing, Audio Engineering, Engineering Design, VST Development, Spatial Audio, Analog Synthesizers, Quantum Computing, Open-Source Silicon.
+*   **Business & Management Skills:** Strategic Planning, Management, Sales, Distribution, Customer Relationships, Retail Partnerships, Payroll Accounting, Brand Marketing, Supply Chain Management.
+
 
 ## Authors
 
