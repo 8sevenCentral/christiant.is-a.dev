@@ -16,7 +16,7 @@ Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at
 My passion for creation extended into the technical heart of our products. I became proficient in designing PCBs, rigorously testing and simulating circuits, and meticulously crafting product enclosures with intuitive UI/UX. This holistic approach ensured our unique audio equipment was exceptional from concept to user experience.
 
 #### The Journey & The Craft
-My biggest adventure truly began when I founded and led Adventure Audio. It was a passion project, a journey of innovation where I poured my heart into creating unique audio equipment for musicians and audiophiles. We weren't just building products; we were crafting experiences, pushing the boundaries of sound, and connecting with a vibrant community of artists and enthusiasts. To fuel this dream, I successfully applied for and received multiple small business grants, alongside a few successful open-source funding campaigns. These crucial funds allowed us to acquire essential manufacturing machinery, including a used Roland UV printer, which we proudly sourced from none other than Robert Keeley of Keeley Effects. This venture operated on both Business-to-Consumer (B2C) and Business-to-Business (B2B) models. On the B2B side, we had two distinct operations: stocking retailers with our innovative products and manufacturing custom enclosures for third-party vendors, some of whom were larger than us. This entrepreneurial experience served as a crucible for self-taught skills, encompassing:
+My biggest adventure truly began when I founded and led Adventure Audio. It was a passion project, a journey of innovation where I poured my heart into creating unique audio equipment for musicians and audiophiles. We weren't just building products; we were crafting experiences, pushing the boundaries of sound, and connecting with a vibrant community of artists and enthusiasts. To fuel this dream, I successfully applied for and received multiple small business grants, alongside a few successful open-source funding campaigns. These crucial funds allowed us to acquire essential manufacturing machinery, including a used Roland UV printer, which we proudly sourced from none other than Robert Keeley of [Keeley Electronics](https://www.keeleyelectronics.com). This venture operated on both Business-to-Consumer (B2C) and Business-to-Business (B2B) models. On the B2B side, we had two distinct operations: stocking retailers with our innovative products and manufacturing custom enclosures for third-party vendors, some of whom were larger than us. This entrepreneurial experience served as a crucible for self-taught skills, encompassing:
 *   **Hands-on Manufacturing Processes:** CNC Machining, UV Printing, Powder Coating, 3D Printing, Pick-and-Place Programming and Operation, Screen Printing.
 *   **Electrical Test Assemblies & Processes:** Mastering intricate details for quality assurance.
 *   **Product Lifecycle Management:** From Design for Manufacturability (DFM) to navigating international shipping trades.
@@ -47,7 +47,19 @@ I am starting a new company called 8sevenC that will strive towards the same goa
 ***
 
 ### 🎓 Education
-My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, NJ (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts.
+My journey began with a Bachelor of Arts in Music Arts Technology from [Bloomfield College, NJ](https://www.bloomfield.edu/academics/degrees-programs/music-technology) (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the [Hajim School of Engineering and Applied Sciences at the University of Rochester](https://www.hajim.rochester.edu/ece/graduate/ms-audio-acoustics.html). These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts.
+***
+
+### 💡 Other Stuff
+I interned at [DIY Recording Equipment](https://www.diyrecordingequipment.com) early on in my career, as well as interning and eventually becoming an assistant recording engineer at several music studios in NYC, NJ, and Philadelphia before moving to Rochester to get my masters. I also briefly worked as a front-of-house assistant engineer at a live music venue. I've also done a lot of other odd jobs like delivering wedding cakes, Lyft driver, UPS package assistant, sushi waiter, and several audio/video recording and editing gigs.
+
+I was also a member at [NextFAB studio](https://nextfab.com) in Philadelphia, where I earned certifications in:
+*   Bridgeport Milling
+*   Vinyl Cutter Operation
+*   CNC and Woodshop (including table saw, band saw, routers, sanders)
+*   Metal Shop (Bridgeport Mill with DRM)
+*   Drill Presses
+(I didn't have time to get the lathe certification as the instructor was not as available during my time there).
 ***
 
 ## 🛠 Skills
@@ -180,9 +192,15 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   [Teensy](https://www.pjrc.com/teensy/)
 
 ### Current Focus
-*   **Programming:** Python
-*   **Software:** Self-hosted Open-Source Software (various applications)
-*   **AI/ML:** Large Language Model Implementation (for audio technology development)
+
+My current endeavors are multifaceted, driven by a passion for innovation at the intersection of creativity and technology:
+
+*   **8sevenC Venture:** Actively building and prototyping for my new company, 8sevenC, with a focus on creating innovative tools for musicians and audiophiles. This includes designing new pedals, eurorack modules, and exploring audio plugin development.
+*   **AI/LLM Exploration:** Deep diving into Artificial Intelligence and Large Language Models, particularly their application in audio technology development and creative fields.
+*   **Digital Garden Cultivation:** Continuously expanding and organizing a personal "digital garden" of notes, encompassing electronics, audio engineering, computer science, and metaphysical research, serving as a foundation for future projects.
+*   **Web Development:** Building a dedicated website to showcase prototypes from 8sevenC and share insights from my digital garden.
+*   **Open-Source Software:** Exploring and implementing self-hosted open-source software solutions for various applications, enhancing personal and professional workflows.
+*   **Programming Proficiency:** Further honing skills in Python and other relevant programming languages to support development across all these areas.
 
 ## Authors
 
