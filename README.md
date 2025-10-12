@@ -74,6 +74,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   [Void](https://voideditor.com)
 *   [Overleaf](https://www.overleaf.com)
 *   [LaTeX](https://www.latex-project.org)
+*   LinuxCNC
 
 ### CLI Tools
 *   [Gemini](https://github.com/google-gemini/gemini-cli)
@@ -121,15 +122,15 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   [OpenEMS](http://openems.de/) (Ubuntu VM) via UTM
 *   [Inkscape](https://inkscape.org)
 *   [Inkpad](https://inkpad.art) (iPad Inkscape)
-*   GIMP
+*   [GIMP](https://www.gimp.org)
 *   Penpot
-*   Prusa Slicer
-*   Orca Slicer
-*   Thumbhost3mf.app
-*   Touch Designer
+*   [Prusa Slicer](https://www.prusa3d.com/prusaslicer/)
+*   [Orca Slicer](https://orcaslicer.com)
+*   [Thumbhost3mf.app](https://github.com/gagarine/ThumbHost3mf)
+*   [Touch Designer](https://derivative.ca)
 
 ### Audio & Music Production
-*   Bitwig
+*   [Bitwig](https://www.bitwig.com)
 *   PureData
 *   Tidal
 *   PlugData
@@ -147,7 +148,7 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   PartsDB
 *   Listmonk
 *   n8n
-*   Penpot
+*   [Penpot](https://penpot.app)
 *   Playwright
 *   Nextcloud (with WebDAV for Zotero)
 *   MongoDB
