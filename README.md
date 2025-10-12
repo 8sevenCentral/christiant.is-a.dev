@@ -16,15 +16,19 @@ Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at
 My passion for creation extended into the technical heart of our products. I became proficient in designing PCBs, rigorously testing and simulating circuits, and meticulously crafting product enclosures with intuitive UI/UX. This holistic approach ensured our unique audio equipment was exceptional from concept to user experience.
 
 #### The Journey & The Craft
-My biggest adventure truly began when I founded and led Adventure Audio. It was a passion project, a journey of innovation where I poured my heart into creating unique audio equipment for musicians and audiophiles. We weren't just building products; we were crafting experiences, pushing the boundaries of sound, and connecting with a vibrant community of artists and enthusiasts. To fuel this dream, I successfully applied for and received multiple small business grants, alongside a few successful open-source funding campaigns. These crucial funds allowed us to acquire essential manufacturing machinery, including a used Roland UV printer, which we proudly sourced from none other than Robert Keeley of Keeley Effects. This venture operated on both Business-to-Consumer (B2C) and Business-to-Business (B2B) models. On the B2B side, we had two distinct operations: stocking retailers with our innovative products and manufacturing custom enclosures for third-party vendors, some of whom were larger than us. This entrepreneurial experience served as a crucible for self-taught skills, encompassing everything from hands-on manufacturing processes like CNC machining, UV printing, powder coating, 3D printing, pick-and-place programming and operation, and screen printing, to the intricate details of electrical test assemblies and processes. I mastered the entire product lifecycle, from Design for Manufacturability (DFM), ensuring our concepts translated seamlessly into production, to navigating the complexities of international shipping trades. My responsibilities extended to meticulous component sourcing, establishing robust database management systems, and handling all aspects of financial operations, including payroll, business taxes, and legal compliance. I also developed strong leadership and human resources skills, fostering a collaborative environment and guiding a talented team. Beyond the core business operations, my role expanded to encompass a diverse set of technical and creative responsibilities. I became proficient in website and webshop creation and maintenance, showcasing my web development skills, and honed my abilities in illustrative design. I also developed a keen eye for social media engagement, growing several channels, and mastering photo and video editing, alongside shooting compelling promotional and tutorial videos.
+My biggest adventure truly began when I founded and led Adventure Audio. It was a passion project, a journey of innovation where I poured my heart into creating unique audio equipment for musicians and audiophiles. We weren't just building products; we were crafting experiences, pushing the boundaries of sound, and connecting with a vibrant community of artists and enthusiasts. To fuel this dream, I successfully applied for and received multiple small business grants, alongside a few successful open-source funding campaigns. These crucial funds allowed us to acquire essential manufacturing machinery, including a used Roland UV printer, which we proudly sourced from none other than Robert Keeley of Keeley Effects. This venture operated on both Business-to-Consumer (B2C) and Business-to-Business (B2B) models. On the B2B side, we had two distinct operations: stocking retailers with our innovative products and manufacturing custom enclosures for third-party vendors, some of whom were larger than us. This entrepreneurial experience served as a crucible for self-taught skills, encompassing:
+*   **Hands-on Manufacturing Processes:** CNC Machining, UV Printing, Powder Coating, 3D Printing, Pick-and-Place Programming and Operation, Screen Printing.
+*   **Electrical Test Assemblies & Processes:** Mastering intricate details for quality assurance.
+*   **Product Lifecycle Management:** From Design for Manufacturability (DFM) to navigating international shipping trades.
+My responsibilities extended to meticulous component sourcing, establishing robust database management systems, and handling all aspects of financial operations, including payroll, business taxes, and legal compliance. I also developed strong leadership and human resources skills, fostering a collaborative environment and guiding a talented team. Beyond the core business operations, my role expanded to encompass a diverse set of technical and creative responsibilities. I became proficient in website and webshop creation and maintenance, showcasing my web development skills, and honed my abilities in illustrative design. I also developed a keen eye for social media engagement, growing several channels, and mastering photo and video editing, alongside shooting compelling promotional and tutorial videos.
 
 #### The Unforeseen Encore: A New Scientific Chapter
 Unfortunately, the world had other plans. The immense challenges brought on by the COVID-19 pandemic forced us to make the tough decision to close up shop. This pivotal moment, though difficult, ultimately led to my transition into the exciting role of a Technology Development Scientist. It was a new stage, a different kind of innovation, but with the same passion for pushing boundaries. You can still check out our journey and the cool gear we made on Instagram: [instagram.com/adventure_audio](https://instagram.com/adventure_audio).
 ***
 
 ### 🔬 Scientific Endeavors: Pioneering X-ray and Photon Technologies
-More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. You can see some of the X-ray detectors I worked on here: [Sydor Technologies X-ray Cameras & Detectors](https://sydortechnologies.com/x-ray-cameras-detectors/). This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
-*   **Advanced PCB Design:** Utilizing industry-standard tools like Altium and OrCAD for complex circuit board layouts.
+More recently, I had been working as a Technology Development Scientist for a private company, where I was at the forefront of developing advanced X-ray and photon imaging technology and cameras for X-ray experiments at synchotron particle accelerators. You can see some of the X-ray detectors I worked on here: [X-ray Cameras & Detectors](https://sydortechnologies.com/x-ray-cameras-detectors/). This role was a deep dive into cutting-edge science and engineering, where I gained extensive experience in:
+*   **Advanced PCB Design:** Expertise in multi-layer mixed-signal SMD PCB design, encompassing strategic PCB material selection, optimized layer stackup, robust via stitching techniques, signal integrity (SI) routing methodologies, and meticulous test point placement considerations for Device Under Test (DUT) validation. Proficient in industry-standard tools like Altium and OrCAD for complex circuit board layouts.
 *   **Scientific Grant Writing:** Successfully securing research funding, including for projects with the Department of Energy (DOE).
 *   **Materials Science & Physics:** Investigating electrical and chemical interactions, X-ray and synchrotron science, GaN (Gallium Nitride) technology, and understanding lattice structures and band gaps.
 *   **Microfabrication & Experimentation:** Developing lithography and patterning techniques for wafers, and conducting vacuum chamber experiments to test multiple material resonances with custom CMOS sensors.
@@ -58,64 +62,65 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 ## 💻 Current Tech Stack
 
 ### Programming Languages
-*   Python
-*   Julia (Matlab alternative)
-*   C++
+*   [Python](https://www.python.org)
+*   [Julia](https://julialang.org) (Matlab alternative)
+*   [C++](https://isocpp.org)
 
 ### Development Tools
-*   Homebrew
-*   CMake
-*   SourceTree
-*   Teensy
-*   Overleaf
-*   LaTeX
+*   [Homebrew](https://brew.sh)
+*   [CMake](https://cmake.org)
+*   [SourceTree](https://www.sourcetreeapp.com/)
+*   [Teensy](https://www.pjrc.com/teensy/)
+*   [Void](https://voideditor.com)
+*   [Overleaf](https://www.overleaf.com)
+*   [LaTeX](https://www.latex-project.org)
 
 ### CLI Tools
-*   Gemini
-*   Qwen
-*   Crush
-*   Aider
+*   [Gemini](https://github.com/google-gemini/gemini-cli)
+*   [Qwen](https://chat.qwen.ai)
+*   [Crush](https://charm.sh/crush/)
+*   [Aider](https://aider.chat)
 
 ### Utilities
-*   Tailscale
-*   TouchPortal (aka Steam Deck)
-*   OnyX
-*   Espanso
-*   Cling
-*   PDF Gear
-*   Raycast
-*   OpenCore Legacy Patcher
-*   Amphetamine
-*   Keka
-*   Maccy
+*   [Tailscale](https://tailscale.com)
+*   [TouchPortal](https://www.touch-portal.com) (aka Steam Deck)
+*   [OnyX](https://www.titanium-software.fr/en/onyx.html)
+*   [Espanso](https://espanso.org)
+*   [Cling](https://cling.readthedocs.io/en/latest/)
+*   [PDF Gear](https://www.pdfgear.com)
+*   [Raycast](https://www.raycast.com)
+*   [OpenCore Legacy Patcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
+*   [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
+*   [Keka](https://www.keka.io)
+*   [Maccy](https://maccy.app)
 *   Astrix
-*   Balena Etcher
-*   Disk Drill
-*   Macs Fan Control
-*   Cheat Sheet
-*   The Unarchiver
-*   PearCleaner
-*   LuLu
-*   AnyDesk
-*   Transmission
-*   Fluid
-*   Wireshark
-*   Keyboard Maestro
-*   Stremio
-*   ProtonVPN
-*   Mos
-*   SwiftQuit
-*   Grab2Text
-*   BetterDisplay
-*   Ice
+*   [Balena Etcher](https://www.balena.io/etcher)
+*   [Disk Drill](https://www.cleverfiles.com)
+*   [Macs Fan Control](https://crystalidea.com/macs-fan-control)
+*   [Cheat Sheet](https://github.com/mediaatelier/CheatSheet)
+*   [The Unarchiver](https://theunarchiver.com)
+*   [PearCleaner](https://itsalin.com/pearc/) (This is a personal website, but it seems to be the official source)
+*   [LuLu](https://objective-see.org/products/lulu.html)
+*   [AnyDesk](https://anydesk.com)
+*   [Transmission](https://transmissionbt.com)
+*   [Fluid](https://fluidapp.com)
+*   [Wireshark](https://www.wireshark.org)
+*   [Keyboard Maestro](https://www.keyboardmaestro.com)
+*   [Stremio](https://www.stremio.com)
+*   [ProtonVPN](https://protonvpn.com)
+*   [Mos](https://mos.caldis.me)
+*   [SwiftQuit](https://swiftquit.com)
+*   [Grab2Text](https://www.softwarehow.com/grab2text/)
+*   [BetterDisplay](https://betterdisplay.pro)
+*   [Ice](https://github.com/jordanbaird/Ice)
 
 ### CAD & Design
-*   Fusion 360
-*   FreeCAD
-*   KiCad
-*   OpenEMS (Ubuntu VM) via UTM
-*   Inkscape
-*   Inkpad (iPad Inkscape)
+*   [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
+*   [FreeCAD](https://www.freecad.org)
+*   [KiCad](https://www.kicad.org)
+*   [OpenEMS](http://openems.de/) (Ubuntu VM) via UTM
+*   [Inkscape](https://inkscape.org)
+*   [Inkpad](https://inkpad.art) (iPad Inkscape)
 *   GIMP
 *   Penpot
 *   Prusa Slicer
@@ -164,15 +169,14 @@ My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfiel
 *   X-Carve Easel
 *   Matlab
 
-### Chips I've Worked With
+### Microcontrollers & Processors
 *   FV-1
 *   STM32
 *   DaisySeed
 *   ATMEGA328
 *   ATTINY84
 *   ATTINY85
-*   Raspberry Pi
-*   Teensy
+*   [Teensy](https://www.pjrc.com/teensy/)
 
 ### Current Focus
 *   **Programming:** Python
