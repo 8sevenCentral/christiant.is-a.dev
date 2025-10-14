@@ -1,35 +1,80 @@
-layout: sidebar
-style: light
-
-port: 4040
-
 title: Christian Terjesen
-description: "Hey there! I'm Christian, a passionate maker who loves bringing ideas to life at the exciting crossroads of creativity and technology. I'm actively seeking new collaborations and exciting projects, and I'm always eager to connect with fellow enthusiasts. Here are some of the things I've done so far: My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, NJ (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts. After my studies, my biggest adventure truly began when I founded and led Adventure Audio. It was a passion project, a journey of innovation where I poured my heart into creating unique audio equipment for musicians and audiophiles. This venture operated on both Business-to-Consumer (B2C) and Business-to-Business (B2B) models. The B2B operations included stocking retailers with our innovative products and manufacturing custom enclosures for third-party vendors, some of whom were larger than us. This entrepreneurial experience served as a crucible for developing a diverse skill set, including: Manufacturing & Operations: CNC machining, UV printing, powder coating, 3D printing, pick-and-place programming and operation, screen printing, electrical test assemblies and processes. I mastered the entire product lifecycle, from Design for Manufacturability (DFM), ensuring our concepts translated seamlessly into production, to navigating the complexities of international shipping trades. My responsibilities extended to meticulous component sourcing, establishing robust database management systems, and handling all aspects of financial operations, including payroll, business taxes and laws, and employee management. I also had the privilege of developing stron... [truncated]
+email: your-email@example.com
+description: >-
+  Hey there! I'm Christian, a passionate maker who loves bringing ideas to life 
+  at the exciting crossroads of creativity and technology. I'm actively seeking 
+  new collaborations and exciting projects, and I'm always eager to connect with 
+  fellow enthusiasts.
 baseurl: ""
+url: "http://christiant.is-a.dev"
 
+# Build settings
+markdown: kramdown
+theme: minima
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
 
-permalink: :title/
+permalink: /:title/
+future: true
 
+# Collections
+collections:
+  posts:
+    output: true
+
+# Custom variables
 author:
   name: Christian Terjesen
+  email: your-email@example.com
 
 github:
   username: 8sevenCentral
 
+# Defaults
 defaults:
   - scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
       type: "posts"
     values:
       layout: "post"
 
+# Additional custom configuration
+education: >-
+  My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, 
+  NJ (now part of Montclair University), followed by a Master of Science in Electrical 
+  Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. 
+  These foundational experiences honed my skills in everything from fundamental audio 
+  engineering to advanced Electrical and Computer Engineering concepts.
 
+tech_stack: >-
+  Current Tech Stack: 💻 Programming Languages: Python, Julia (Matlab alternative), C++. 
+  Development Tools: Homebrew, PyCharm, Aerospace, CMake, SourceTree, Teensy. 
+  CLI Tools: Gemini, Qwen, Crush, Aider, various others. 
+  IDEs: Void, Kiro, Arduino IDE, Zed, PyCharm, VS Code, Xcode. 
+  Web Services: Vercel, Cloudflare, Orion Browser, Zen Browser. 
+  Virtualization & VMs: UTM, Ubuntu 20.something, Win11, UnRaid. 
+  MCPs (Model Context Protocols): Context7, KiCad MCP, Obsidian MCP, n8n MCP, Continue MCP, 
+  GitHub MCP, Brave Browser MCP. 
+  Productivity & Knowledge Management: Zotero, Obsidian, Raindrop. 
+  Utilities: Tailscale, TouchPortal (aka Steam Deck), OnyX, Espanso, Cling, PDF Gear, 
+  Raycast, OpenCore Legacy Patcher, Amphetamine, Keka, Maccy, Astrix, Balena Etcher, 
+  Disk Drill, Macs Fan Control, Cheat Sheet, The Unarchiver, PearCleaner, Fluid, 
+  Wireshark, Keyboard Maestro, Stremio, ProtonVPN, Mos, SwiftQuit, Command X, Grab2Text, 
+  BetterDisplay, Ice. 
+  CAD & Design: Fusion 360, FreeCAD, KiCad, OpenEMS (Ubuntu VM) via UTM, Inkscape, 
+  Inkpad (iPad Inkscape), GIMP, Penpot, Prusa Slicer, Orca Slicer, Thumbhost3mf.app, 
+  Touch Designer, ImageJ. 
+  Audio & Music Production: Bitwig, PureData, Tidal, PlugData, JUCE, VCVRack2Free, EqMac. 
+  AI/ML: LM Studio (for current models using), Ollama. 
+  Self-hosted Open-Source Software: Podman, Postiz, PartsDB, Listmonk, n8n, Penpot, 
+  Playwright, Nextcloud (with WebDAV for Zotero), MongoDB, DebrisLink, Pi-hole. 
+  Depreciated Software: EagleCAD, Aspire 8, Pickit2, Protools, Logic, Adobe Illustrator, 
+  Adobe Photoshop, Adobe Premier, squarespace.com, QuickBooks, X-Carve Easel, Matlab. 
+  Other Software: various others. 
+  Chips I've Worked With: FV-1, STM32, DaisySeed, ATMEGA328, ATTINY84, ATTINY85, RasberryPi, Teensy.
 
-education: "My journey began with a Bachelor of Arts in Music Arts Technology from Bloomfield College, NJ (now part of Montclair University), followed by a Master of Science in Electrical Engineering (MSEE) with a focus on Audio Technology from the University of Rochester. These foundational experiences honed my skills in everything from fundamental audio engineering to advanced Electrical and Computer Engineering concepts."
-
-tech_stack: "Current Tech Stack: 💻 Programming Languages: Python, Julia (Matlab alternative), C++. Development Tools: Homebrew, PyCharm, Aerospace, CMake, SourceTree, Teensy. CLI Tools: Gemini, Qwen, Crush, Aider, various others. IDEs: Void, Kiro, Arduino IDE, Zed, PyCharm, VS Code, Xcode. Web Services: Vercel, Cloudflare, Orion Browser, Zen Browser. Virtualization & VMs: UTM, Ubuntu 20.something, Win11, UnRaid. MCPs (Model Context Protocols): Context7, KiCad MCP, Obsidian MCP, n8n MCP, Continue MCP, GitHub MCP, Brave Browser MCP. Productivity & Knowledge Management: Zotero, Obsidian, Raindrop. Utilities: Tailscale, TouchPortal (aka Steam Deck), OnyX, Espanso, Cling, PDF Gear, Raycast, OpenCore Legacy Patcher, Amphetamine, Keka, Maccy, Astrix, Balena Etcher, Disk Drill, Macs Fan Control, Cheat Sheet, The Unarchiver, PearCleaner, Fluid, Wireshark, Keyboard Maestro, Stremio, ProtonVPN, Mos, SwiftQuit, Command X, Grab2Text, BetterDisplay, Ice. CAD & Design: Fusion 360, FreeCAD, KiCad, OpenEMS (Ubuntu VM) via UTM, Inkscape, Inkpad (iPad Inkscape), GIMP, Penpot, Prusa Slicer, Orca Slicer, Thumbhost3mf.app, Touch Designer, ImageJ. Audio & Music Production: Bitwig, PureData, Tidal, PlugData, JUCE, VCVRack2Free, EqMac. AI/ML: LM Studio (for current models using), Ollama. Self-hosted Open-Source Software: Podman, Postiz, PartsDB, Listmonk, n8n, Penpot, Playwright, Nextcloud (with WebDAV for Zotero), MongoDB, DebrisLink, Pi-hole. Depreciated Software: EagleCAD, Aspire 8, Pickit2, Protools, Logic, Adobe Illustrator, Adobe Photoshop, Adobe Premier, squarespace.com, QuickBooks, X-Carve Easel, Matlab. Other Software: various others. Chips I've Worked With: FV-1, STM32, DaisySeed, ATMEGA328, ATTINY84, ATTINY85, RasberryPi, Teensy."
-current_focus: "Programming: Python. Software: Self-hosted Open-Source Software (various applications). AI/ML: Large Language Model Implementation (for audio technology development)"
+current_focus: >-
+  Programming: Python. Software: Self-hosted Open-Source Software (various applications). 
+  AI/ML: Large Language Model Implementation (for audio technology development)
