@@ -1,54 +1,15 @@
-{% include header.html %}
+---
+layout: default
+---
 
-{% if site.layout == 'stacked' %}
-  <div class="container-lg py-6 p-responsive text-center">
-    {% include masthead.html metadata=true %}
+<h1>{{ site.title }}</h1>
+{{ content }}
 
-    <div {% if site.style == 'dark' %}class="text-white"{% endif %}>
-      {{ content }}
-    </div>
+{% include about.html %}
+{% include projects.html %}
 
-    <div class="my-6">
-      {% include about.html %}
-    </div>
-
-    <div class="my-6">
-      <h2 class="{% if site.style == 'dark' %}text-white{% endif %}">Digital Garden</h2>
-      <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">I write about my projects, learnings, and thoughts on my digital garden. You can find my writings there.</p>
-      <a href="https://dg.8sevenC.xyz" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Visit my Digital Garden</a>
-    </div>
-
-    <div class="my-6">
-      {% include projects.html %}
-    </div>
-  </div>
-{% else %}
-
-  <div class="d-md-flex min-height-full pt-3 {% unless site.style == 'dark' %}border-md-bottom{% endunless %}">
-    <div class="flex-self-stretch {% if site.style == 'dark' %}bg-gray-dark{% else %}border-md-right border-gray-light bg-white{% endif %} col-md-5 col-lg-4 col-xl-3 px-4 px-md-6 px-lg-7 py-6">
-      {% include masthead.html metadata=true %}
-    </div>
-    <div class="col-md-7 col-lg-8 col-xl-9 px-4 py-6 px-lg-7 border-top border-md-top-0 bg-gray-light" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
-      
-      <div class="mx-auto" style="max-width: 900px;">
-        {% unless content == ""  %}
-          <div class="f4 {% if site.style == 'dark' %}text-white{% endif %} mb-6">
-            {{ content }}
-          </div>
-        {% endunless %}
-        
-        {% include about.html %}
-
-        <div class="my-6">
-          <h2 class="{% if site.style == 'dark' %}text-white{% endif %}">Digital Garden</h2>
-          <p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">I write about my projects, learnings, and thoughts on my digital garden. You can find my writings there.</p>
-          <a href="https://dg.8sevenC.xyz" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Visit my Digital Garden</a>
-        </div>
-
-        {% include projects.html %}
-      </div>
-    </div>
-  </div>
-{% endif %}
-
-{% include footer.html %}
+<div class="my-6">
+  <h2>Digital Garden</h2>
+  <p>I write about my projects, learnings, and thoughts on my digital garden. You can find my writings there.</p>
+  <a href="https://dg.8sevenC.xyz" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Visit my Digital Garden</a>
+</div>
