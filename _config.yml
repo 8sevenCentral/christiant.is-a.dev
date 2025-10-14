@@ -15,9 +15,7 @@ port: 4040
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal  # Use a basic theme that supports includes
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-octicons
   - jekyll-github-metadata
