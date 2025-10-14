@@ -8,10 +8,16 @@ description: >-
 baseurl: ""
 url: "http://christiant.is-a.dev"
 
+# GitHub profile theme settings
+layout: stacked
+style: light
+port: 4040
+
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal  # Use a basic theme that supports includes
 plugins:
+  - jekyll-remote-theme
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
