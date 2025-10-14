@@ -35,6 +35,12 @@ jobs:
           bundler-cache: true
           cache-version: 0
 
+      - name: Install Dependencies
+        run: |
+          gem install bundler
+          bundle config set --local deployment 'false'
+          bundle install
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
